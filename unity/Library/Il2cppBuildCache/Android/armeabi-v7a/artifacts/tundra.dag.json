@@ -1,0 +1,142 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/brunonascimento/MyFirstGame/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --baselib-directory=\"/Applications/Unity/Hub/Editor/2020.3.16f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Development/StaticLibs/armeabi-v7a\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/Users/brunonascimento/MyFirstGame/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Cinemachine.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Google.Protobuf.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/KartGame.AI.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/KartGame.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/System.Runtime.Serialization.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.Barracuda.BurstBLAS.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.Barracuda.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.Burst.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.InteractiveTutorials.Core.Scripts.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.ML-Agents.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.Postprocessing.Runtime.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.ProBuilder.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/Unity.Timeline.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/Users/brunonascimento/MyFirstGame/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "\"/Applications/Unity/Hub/Editor/2020.3.16f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\""
+      ],
+      "Outputs": [
+        "/Users/brunonascimento/MyFirstGame/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../Library"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
